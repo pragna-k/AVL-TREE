@@ -149,3 +149,34 @@ void main()
                 }
         }
 }
+        OUTPUT:
+        1.INSERT
+2.INORDER
+3.PREORDER
+4.POSTORDER
+5.EXIT
+Enter your choice: 
+1
+Enter the element into AVL tree :
+ 25
+Enter your choice: 
+1
+Enter the element into AVL tree :
+ 30
+Enter your choice: 
+1
+Enter the element into AVL tree :
+ 93
+Enter your choice: 
+2
+The inorder traversal of the AVL tree is: 
+25	30	93	Enter your choice: 
+3
+The preorder traversal of the AVL tree is: 
+30	25	93	Enter your choice: 
+4
+The postorder traversal of the AVL tree is: 
+25	93	30	Enter your choice: 
+
+5
+exit
